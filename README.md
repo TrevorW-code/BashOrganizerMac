@@ -1,7 +1,9 @@
 # BashOrganizerMac
-While learning to make config files, I came across a few fun commands that help organize Mac Files. Here are some of the bash files I made
+While learning to make config files, I came across a few fun commands that help organize Mac Files. Here are some of the bash files I made.
 
-**To Make These Files work, Run these commands**
+
+
+*To Make These Files work, Run these commands*
 
 `chmod +x filename.sh`
 `bash filename.sh`
